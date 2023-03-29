@@ -1,6 +1,6 @@
-from math import floor #importing floor math for making calculated value to adjacent lower integer
 import turtle
 import re
+from math import floor #importing floor math for making calculated value to adjacent lower integer
  
 # Function to validate
 # hexadecimal color code .
